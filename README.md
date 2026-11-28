@@ -1,6 +1,6 @@
 # 10T Schedule Post Updates
 
-Version 1.0.0 adds scheduled unpublishing to standard WordPress posts. Requires WordPress 6.6+ and PHP 8.2+. No dependencies or updater code is bundled.
+Version 1.0.1 provides scheduled unpublishing for standard WordPress posts. Requires WordPress 6.6+ and PHP 8.2+. No dependencies or updater code is bundled.
 
 **No warranty:** This software is provided without any warranty, including the implied warranties of merchantability or fitness for a particular purpose. See [LICENSE](LICENSE) for the full terms.
 

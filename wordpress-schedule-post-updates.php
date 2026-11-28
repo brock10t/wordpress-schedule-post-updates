@@ -2,7 +2,7 @@
 /**
  * Plugin Name: 10T Schedule Post Updates
  * Description: Schedule a future date and time to move published posts to Draft.
- * Version: 1.0.0
+ * Version: 1.0.1
  * Requires at least: 6.6
  * Requires PHP: 8.2
  * Plugin URI: https://github.com/brock10t/wordpress-schedule-post-updates
